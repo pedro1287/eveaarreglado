@@ -12,7 +12,7 @@ import xdlink
 import mediafire
 import datetime
 import time
-import mega
+import telethon
 import NexCloudClient
 from pydownloader.downloader import Downloader
 from ProxyCloud import ProxyCloud
